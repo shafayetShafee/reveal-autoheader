@@ -2,3 +2,4 @@
 *.pdf
 *_files/
 .Rproj.user/
+!docs/*
