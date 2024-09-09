@@ -22,10 +22,4 @@ filters:
 ---
 ````
 
-After using this filter, header-less slides created with `---` (i.e. Horizontal lines) will automatically show the header from the previous slide with header. 
-
-
-## Example
-
-Here is the source code for a minimal example: [example.qmd](example.qmd).
-
+After using this filter, header-less slides created with `---` (i.e. Horizontal lines) will automatically show the header from the previous slide with header. Check the source code for a minimal example: [example.qmd](example.qmd).and compare the [`rendered output`](https://shafayetshafee.github.io/reveal-autoheader/example.html) to better understand the usage.
