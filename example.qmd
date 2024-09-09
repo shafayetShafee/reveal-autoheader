@@ -1,0 +1,27 @@
+---
+title: "Reveal-autoheader Example"
+format: revealjs
+embed-resources: true
+filters:
+  - reveal-autoheader
+---
+
+## Animal
+
+- slide 1
+
+---
+
+- slide 2
+
+---
+
+- slide 3
+
+## Fruits
+
+- slide 4
+
+---
+
+- slide 5
